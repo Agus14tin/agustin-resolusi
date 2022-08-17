@@ -6,5 +6,7 @@ RENCANA PROGRAMMER AGUS
 - Css 3
 - Css frameworks
 - Javascript
+  * ES6
+  * Framework Javascript
 - Php
 - Php frameworks
