@@ -1,0 +1,12 @@
+RENCANA PROGRAMMER AGUS
+
+- Html
+- Css
+- Css Layout
+- Css 3
+- Css frameworks
+- Javascript
+  * ES6
+  * Framework Javascript
+- Php
+- Php frameworks
