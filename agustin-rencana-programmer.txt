@@ -8,6 +8,9 @@ RENCANA PROGRAMMER AGUS
 - Javascript
   * ES6
   * Framework Javascript
+   ^ Vue
 - Struktur Data dasar
 - Php
 - Php frameworks
+ ^ Laravel
+- Phyton
